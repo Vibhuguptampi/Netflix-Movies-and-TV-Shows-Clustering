@@ -39,7 +39,7 @@ For a complete project video explanation and to download the dataset: [Click her
 
 Feel free to explore the repository for further insights into the code implementation, methodology, and findings.
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/rudraashish-sengupta-5ab66575/).
+Connect with me on [Linkedin](https://www.linkedin.com/in/vibhuti-gupta-131336232/).
 
 Happy Learning!
 **************************************************************************************************************************************************
